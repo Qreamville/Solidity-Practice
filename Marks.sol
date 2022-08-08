@@ -1,7 +1,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.7;
 
-//In this contract, the details of every student like student ID, Name, Marks can be added and if one wants to give some bonus marks to students then they can also be added.
+/* In this contract, the details of every 
+student like student ID, Name, Marks can
+be added and if one wants to give some 
+bonus marks to students then they can also 
+be added. */
 
 contract MarksManagementSystem {
     // Student details
