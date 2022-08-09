@@ -15,7 +15,7 @@ contract MarksManagementSystem {
         int mark;
     }
 
-    address owner;
+    address immutable owner;
     uint studentCount = 0;
     mapping(uint => Student) public allStudent;
 
