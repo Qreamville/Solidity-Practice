@@ -1,3 +1,3 @@
 # Solidity-Practice
 
-repositories for solidity practice
+Repositories for solidity practice.
